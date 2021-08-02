@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 通往诞生之日-15min/d
+title: 通往诞生之日
 ---
 
 {{ page.title }}
@@ -28,7 +28,7 @@ title: 通往诞生之日-15min/d
 
 【最重要的事】
 
-持续表达。每天。15min/d，包括一小段文字。写在WP上。
+持续表达。
 
 
 
@@ -132,7 +132,7 @@ title: 通往诞生之日-15min/d
 |          | Women on the Edge: Four Plays by Euripides: Alcestis, Medea, Helen, Iphigenia at Aulis | 论文                                                         |           |
 |          | Goddesses, whores, wives, and slaves: women in classical antiquity |                                                              |           |
 |          | [Shoulder to Shoulder (1974)](https://movie.douban.com/subject/5054612/) |                                                              |           |
-|          | [阿斯特丽德和拉斐尔/雨女/Astrid et Raphaëlle](https://www.popo.tw/users/silver0099)，燃烧女子的肖像/Portrait de la jeune fille en feu，电脑线圈/電脳コイル，Σ学院派百合，女高中生的虚度日常/女子高生の無駄づかい，漫画《[她的沈清](https://weibo.com/ttarticle/p/show?id=2309404557065413591050)》，[荒岛七年](https://www.popo.tw/users/silver0099)，《哈莉·奎茵/Harley Quinn》S1＆S2 | [受推荐F/F](https://weibo.com/ttarticle/p/show?id=2309404647004121989433) |           |
+|          | [阿斯特丽德和拉斐尔/雨女/Astrid et Raphaëlle](https://www.popo.tw/users/silver0099)，燃烧女子的肖像/Portrait de la jeune fille en feu，电脑线圈/電脳コイル，Σ学院派百合，女高中生的虚度日常/女子高生の無駄づかい，漫画《[她的沈清](https://weibo.com/ttarticle/p/show?id=2309404557065413591050)》，[荒岛七年](https://www.popo.tw/users/silver0099)，《哈莉·奎茵/Harley Quinn》S1＆S2, 《荒野/The Wilds》S1, 最幸福的季节/Happiest Season, 《苍穹浩瀚/无垠的太空/The Expanse》Season12345, 《Killing Eve》S1, 随风飘的月影兰/風まかせ月影蘭 | [受推荐F/F](https://weibo.com/ttarticle/p/show?id=2309404647004121989433) |           |
 |          | 轻小说：里世界郊游/裏世界ピクニック                          |                                                              |           |
 |          |                                                              |                                                              |           |
 | 历史研究 | A passion for friends, toward a philosophy of female/affection (500p) |                                                              |           |
