@@ -10,6 +10,8 @@ title: 在女性创作中寻找乐趣和思考人生
 
 # Human being
 
+
+
 MUSICIAN: 
 
 Jana Semerádová
@@ -92,11 +94,13 @@ Every woman can be a lesbian
 
 ## 校长张桂梅
 
+拒绝成为全职主妇的女校毕业生为学校捐款。
+
 ## Martha Nussbaum
 
 [对谈](https://www.bilibili.com/video/BV1jZ4y1p74h/) 
 
-On Hecuba: Nussbaum: The condition of being good is that it should always be possible for you to be morally destroyed by something that you couldn't prevent. To be a good human being is to have a kind of openness to the world, a ability to trust uncertain things beyond your own control that can lead you to be shattered in very extreme circumstances... in circumstances that for which you are not yourself to blame. The condition of ethical life is that it is based on a trust in the uncertain, a willingness to be exposed. It's based on being so we're more... more like a plant than like a jewel, something rather... rather fragile but whose very particular beauty is inseparable from that fragility. 
+On Hecuba: The condition of being good is that it should always be possible for you to be morally destroyed by something that you couldn't prevent. To be a good human being is to have a kind of openness to the world, a ability to trust uncertain things beyond your own control that can lead you to be shattered in very extreme circumstances... in circumstances that for which you are not yourself to blame. The condition of ethical life is that it is based on a trust in the uncertain, a willingness to be exposed. It's based on being so we're more... more like a plant than like a jewel, something rather... rather fragile but whose very particular beauty is inseparable from that fragility. 
 
 As I think that the stories that we sometimes tell ourselves that free will is... free no matter what conditions people are living in, that these people in misery are really okay because they still have free will. Those are evasive stories and really pernicious stories because they prevent us from looking with the best kind of compassion at the lives of other people.
 
@@ -128,9 +132,11 @@ As I think that the stories that we sometimes tell ourselves that free will is..
 “语言学转向为传播学研究中社会性别问题探讨所提供的理论视野 ”，《新闻与传播研究》，中国社科院新闻学所，2000年第3期。
 “一个话语的寓言：市场逻辑与90年代中国大众传媒话语空间的构造”，《新闻与传播研究》，中国社科院新闻学所，1999年第2期。
 
-# Campaign and history
+# Campaign and history [Rad]
 
 WSPU
+
+Guerrilla Girls: search video - ' The art of complaining - Guerrilla Girls | The art assignment', Do women have to be naked to get into the Museum?
 
 # Theory review
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 通往自由之路
+title: 通往职业之路
 ---
 
 {{ page.title }}
@@ -10,23 +10,26 @@ title: 通往自由之路
 
 专业知识：
 
-| 课题                      | 内容                                                         | 时间&备注        | 结论&笔记 |
-| ------------------------- | ------------------------------------------------------------ | ---------------- | --------- |
-| 乐器声学                  | Fundamentals of Musical instruments（Benade）                |                  |           |
-| C、C++                    | 书籍：C程序设计语言（K&R）~300 pages                         | 缺些实践 210612~ |           |
-|                           | 课程：翁恺C语言程序编程（~20h）                              | 210612~          |           |
-|                           | 书籍：C++ Primer Plus                                        |                  |           |
-| 机器学习                  | 课程：ML（待定）                                             |                  |           |
-|                           | 课程：ML for audio programming                               |                  |           |
-| 信号处理                  | 书籍：[Introduction to Digital Filters](https://ccrma.stanford.edu/~jos/filters/) |                  |           |
-|                           | 书籍：[Physical Audio Signal Processing](https://ccrma.stanford.edu/~jos/pasp/) |                  |           |
-|                           | 书籍：[Spectral Audio Signal Processing](https://ccrma.stanford.edu/~jos/sasp/) |                  |           |
-|                           | 书籍：信号与系统                                             |                  |           |
-| Bela                      | 课程：                                                       |                  |           |
-| 算法                      | 书籍&课程：算法概论                                          |                  |           |
-| social work               |                                                              |                  |           |
-| inclusive design/teaching |                                                              |                  |           |
-|                           |                                                              |                  |           |
+| 课题                      | 内容                                                         | 时间&备注 | 结论&笔记 |
+| ------------------------- | ------------------------------------------------------------ | --------- | --------- |
+| 乐器声学                  | Fundamentals of Musical instruments（Benade）                |           |           |
+| C、C++                    | 书籍：C程序设计语言（K&R）~300 pages                         |           |           |
+|                           | 课程：翁恺C语言程序编程（~20h）                              |           |           |
+|                           | 书籍：C++ Primer Plus                                        |           |           |
+|                           | CS50                                                         | 20210804~ |           |
+| 机器学习                  | 课程：ML（待定）                                             |           |           |
+|                           | 课程：ML for audio programming                               |           |           |
+| 信号处理                  | 书籍：[Introduction to Digital Filters](https://ccrma.stanford.edu/~jos/filters/) |           |           |
+|                           | 书籍：[Physical Audio Signal Processing](https://ccrma.stanford.edu/~jos/pasp/) |           |           |
+|                           | 书籍：[Spectral Audio Signal Processing](https://ccrma.stanford.edu/~jos/sasp/) |           |           |
+|                           | 书籍：信号与系统                                             |           |           |
+| Bela                      | 课程：                                                       |           |           |
+| 算法                      | 书籍&课程：算法概论                                          |           |           |
+| social work               |                                                              |           |           |
+| inclusive design/teaching |                                                              |           |           |
+|                           |                                                              |           |           |
+
+
 
 细读论文：
 
