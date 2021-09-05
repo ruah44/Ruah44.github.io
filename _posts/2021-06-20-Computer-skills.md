@@ -10,7 +10,7 @@ title: 计算机技术笔记 Lv.0
 
 # C语言
 
-## 翁恺C语言程序编程
+## C程序设计语言（K&R）~300 pages
 
 
 
@@ -22,26 +22,27 @@ title: 计算机技术笔记 Lv.0
 
 #### week 0
 
-> 二分法查找：步数（计算时间）~Log N 曲线
-> 2^(查找步数)=N
->
-> Integer abbreviated int 
->
-> Semi-colon 
->
-> = means assignment赋值, to copy the value on the right side to the left. 
->
-> %s, placeholder for string class
->
-> Forward slash
-> Back slash \ as an escape character 转义字符
-> \n
->
-> int a =4;
-> a = a +1;
-> a += 1;
-> a ++ 1;
-> 一致
+二分法查找：步数（计算时间）~Log N 曲线
+2^(查找步数)=N
+
+Integer abbreviated int 
+
+Semi-colon ;
+
+= means assignment 赋值, to copy the value on the right side to the left. 
+
+%s, placeholder for string class
+
+Forward slash /
+
+Back slash \ as an escape character 转义字符
+\n
+
+int a =4;
+a = a +1;
+a += 1;
+a ++ 1;
+一致
 
 ```c
 for(int i = 0; i < 50; i ++)
@@ -67,7 +68,7 @@ unicode e.g. utf-8
 hierarchy 
 shrink简化 the problem
 
-Pseudocode 伪代码
+Pseudo-code 伪代码(p 不发音)
   Function, 
   condition or branches分支 fork岔路
   Boolean expression 真或假问题
@@ -82,20 +83,20 @@ Get in the way 造成阻碍
 
 #### week 1
 
-> Clang，一个C编译器前端: The Clang project provides a language front-end and tooling  infrastructure for languages in the C language family (C, C++, Objective C/C++, OpenCL, CUDA, and RenderScript) for the LLVM 一个底层虚拟机后端 project. Both a  GCC-compatible compiler driver ( clang ) and an MSVC-compatible compiler driver ( clang-cl.exe ) are provided.
+> Clang，一个C编译器前端: The Clang project provides a language front-end and tooling infrastructure for languages in the C language family (C, C++, Objective C/C++, OpenCL, CUDA, and RenderScript) for the LLVM 一个底层虚拟机后端 project. Both a  GCC-compatible compiler driver ( clang ) and an MSVC-compatible compiler driver (clang-cl.exe ) are provided.
 
-> compile and run
->
-> Input - (algorithm) - output 
-> Source code - (compiler) - machine code 
->
-> 源代码经过编译转到二进制程序。
->
-> 可以用clang[C语言轻量级编译器]对C语言进行编译，输出一个a.out程序，代表编译器的输出；
->
-> 或者编译输出名为hello的程序代替a.out；
->
-> 或者用构建工具（build utility）而非编译器的make
+compile and run
+
+Input - (algorithm) - output 
+Source code - (compiler) - machine code 
+
+源代码经过编译转到二进制程序。
+
+可以用clang[C语言轻量级编译器]对C语言进行编译，输出一个a.out程序，代表编译器的输出；
+
+或者编译输出名为hello的程序代替a.out；
+
+或者用构建工具（build utility）而非编译器的make
 
 ``` c
 #include <cs50.h>
@@ -131,7 +132,7 @@ clang hello.c -lcs50
 >
 > 浮点数精度问题：有限內存（1 float stored in 4 bytes or 32 bits, a double双精度浮点数 stored in 8 bytes: there's always a trade-off）導致浮點數只能表示近似的分數值，在複雜計算中可能會積累一些浮點錯誤。不可用浮點數做計算比較大小。
 >
-> indent缩进
+> indent 缩进
 
 ```c
 // first %: a symbol for placeholder, second %: a math operator.
@@ -152,6 +153,7 @@ else if (c == "N" || c == "n")
 }
 
 // a function with no return and no input value
+
 void cough(void)
 {
     printf("cough\n");
@@ -221,6 +223,9 @@ int printf(const char *format, ...);
 // assembling 汇编
 
 // linking 连接其他预写的库library, header file
+
+// make magical number 魔数 as a FIXED global variable全局变量
+const int COUNT = 3 //全局用大写，常数加const
 ```
 
 >troubleshoot this problem, yield the errors 产生报错
@@ -231,12 +236,65 @@ int printf(const char *format, ...);
 >
 >1. correctness - reach the goal without errors
 >2. design - run fast and save space
->3. style - be readible, write comments, make parentheses括号 and curly braces花括号 line up
+>3. style - be readible, write comments, make parentheses括号 and curly braces 花括号 line up
 
->1 char字符 1 byte
+>grids on RAM (Random access memory随机存取存储器。不同于硬盘hard drives，固态硬盘solif stste drives；RAM需要通电，不能永久储存，内存小但速度快)
+>
+>1 array, **Contiguous memory allocation** 连续存储, 1 char字符 1 byte
+>
+>error: implicit declaration of function 函数的隐式声明 '   ' is invalid in C99 ---- 常见于后行的自定义函数没有提前声明的情况
+>
+>prototype
+>
+>avoid copying and pasting code: use a loop, iterate遍历 over the number of points in that array
+>
+>index into an array
 >
 >
 
+```c
+// pass around arrays as arguments
+// int scores[]: arrays in C do not have an inherent length associated with them. Length  = COUNT
+void chart(int count, int scores[]);
+void chart(int count, int scores[])
+{
+    for (int i = 0; i < count; i++)
+    {
+        for (int j = 0; j < scores[i]; j++)
+        {
+            printf("#");
+        }
+        printf("\n");
+    }
+}
+chart(COUNT, scores);//?
+
+//for (int i = 0, n = strlen(s); i < n; i++)
+
+string s = get_string("Name: ");
+int n=0;
+while(s[n]!="\0")
+{
+    n++;
+}
+//explicit casting 显式类型转换: ASCII0 
+int c = (int)s[i]
+
+//implicit casting 隐式类型转换: 
+int c = s[i]  
+    
+//capitalize, 在C语言中，字符用单引号，字符串用双引号。 在c1=''a;中，'a'是字符常量，必须用单引号。 "a"表示字符串，包含两个字符，一个是'a'，一个是'0'。
+if (s[i]>='a' && s[i]<='a')
+{
+    printf("%c",s[i]-('a'-'A'));
+}
+else
+{
+    printf("%c",s[i])
+}
+```
+
+\0 null character 全零字符放在string末尾 占 1byte
 
 
 
@@ -244,10 +302,15 @@ int printf(const char *format, ...);
 
 
 
+# 嵌入式系统编程 (含RTOS) 
 
+## [Modern Embedded Systems Programming Video Course](https://www.state-machine.com/video-course/) 
 
+40 lessons
 
+Embedded Board: the inexpensive and widely available [**EK-TM4C123GXL board**](https://www.ti.com/tool/ek-tm4c123gxl) from Texas Instruments, also known under the name [**TivaC LaunchPad**](https://www.ti.com/tool/ek-tm4c123gxl). The board is based on the **ARM Cortex-M4 CPU** (处理器 Processor). 
 
+IDE Embedded workbench for ARM,32K Kickstart Edition, Version 9.10 - ARM嵌入式工作台: IAR embedded workbench license number: **9597-840-955-4006** 
 
 
 

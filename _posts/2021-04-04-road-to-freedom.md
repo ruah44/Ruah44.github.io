@@ -8,12 +8,16 @@ title: 通往职业之路
 
 <p class="meta">4 Apr 2021</p>
 
+> The power of earning is essential to the dignity of a woman if she has not independent property. -- Helen Blackburn in June 1877 written for the *Englishwomen’s Review*.
+
+想做远程码农同时线下女性支援，更想做真正赚钱和贡献和理想合一的工作，参与研发同时推广。
+
 专业知识：
 
 | 课题                      | 内容                                                         | 时间&备注 | 结论&笔记 |
 | ------------------------- | ------------------------------------------------------------ | --------- | --------- |
 | 乐器声学                  | Fundamentals of Musical instruments（Benade）                |           |           |
-| C、C++                    | 书籍：C程序设计语言（K&R）~300 pages                         |           |           |
+| C、C++                    | 书籍：C程序设计语言（K&R）~300 pages                         | 20210830  |           |
 |                           | 课程：翁恺C语言程序编程（~20h）                              |           |           |
 |                           | 书籍：C++ Primer Plus                                        |           |           |
 |                           | CS50                                                         | 20210804~ |           |
@@ -45,27 +49,46 @@ title: 通往职业之路
 |                                                              |      |                            |           |
 |                                                              |      |                            |           |
 
+
+
 音乐相关业余知识：
 
-| 课题       | 内容                                           | 时间&备注  | 结论&笔记 |
-| ---------- | ---------------------------------------------- | ---------- | --------- |
-| 音乐与计算 | 书籍：A Geometry of Music（D.T. in Ox, 469p）  |            |           |
-|            | 书籍：Music: a mathematical offering           |            |           |
-| DAW使用    | 课程：Ude-GM (Fl studio)                       |            |           |
-| 乐理       |                                                |            |           |
-|            |                                                |            |           |
-| 音乐与心理 | 书籍：Psychoacoustics                          | 教材，全面 |           |
-|            | 书籍：HOW MUSIC WORKS（J.P. 404p）             | 科普       |           |
-|            |                                                |            |           |
-| 音乐艺术   | 书籍：超越声音艺术                             | 维基代餐   |           |
-|            |                                                |            |           |
-| 音乐史     | 书籍：西方文明中的音乐（751p）                 | 全面       |           |
-|            | 书籍：The history of JAZZ（T.G. 914p）         |            |           |
-|            | 书籍：Music a subversive history （T.G. 597p） |            |           |
-|            | 书籍：The rest is noise                        | 210620~    |           |
-| 科普       | 纪录：音乐录音最前沿.2016                      |            |           |
-|            |                                                |            |           |
-|            |                                                |            |           |
+| 课题       | 内容                                                    | 时间&备注  | 结论&笔记 |
+| ---------- | ------------------------------------------------------- | ---------- | --------- |
+| 音乐与计算 | 书籍：A Geometry of Music（D.T. in Ox, 469p）           |            |           |
+|            | 书籍：Music: a mathematical offering                    |            |           |
+| DAW使用    | 课程：Ude-GM (Fl studio)                                |            |           |
+| 乐理       |                                                         |            |           |
+|            |                                                         |            |           |
+| 音乐与心理 | 书籍：Psychoacoustics                                   | 教材，全面 |           |
+|            | 书籍：HOW MUSIC WORKS（J.P. 404p）                      | 科普       |           |
+|            |                                                         |            |           |
+| 音乐艺术   | 书籍：超越声音艺术                                      | 维基代餐   |           |
+|            |                                                         |            |           |
+| 音乐史     | 书籍：西方文明中的音乐（751p）                          | 全面       |           |
+|            | 书籍：The history of JAZZ（T.G. 914p）                  |            |           |
+|            | 书籍：Music a subversive history （T.G. 597p）          |            |           |
+|            | 书籍：The rest is noise                                 |            |           |
+| 科普       | 纪录：音乐录音最前沿.2016                               |            |           |
+| 电子乐器   | 网站 [120 years](https://lifesea.org/120years/content/) |            |           |
+|            |                                                         |            |           |
+
+
+
+语言
+
+| 课题                       | 内容                                                         | 时间&备注                | 结论&笔记 |
+| -------------------------- | ------------------------------------------------------------ | ------------------------ | --------- |
+| Auden                      | The dyer's hand and other essays                             | 背诵至第二天能重背并默写 |           |
+|                            | Early Auden, later Auden                                     | 传记                     |           |
+| Vocabulary                 | Word power made easy                                         |                          |           |
+|                            | 英语写作考试必背词汇                                         |                          |           |
+|                            | 现代英文选评注夏济安                                         |                          |           |
+| Etymology                  | ITV - The Adventure of English & [25 maps that explain the English language](https://www.vox.com/2015/3/3/8053521/25-maps-that-explain-english) |                          |           |
+| Theatre                    | Hecuba                                                       |                          |           |
+| Academic reading & writing | Academic Phrasebank                                          |                          |           |
+|                            |                                                              |                          |           |
+|                            |                                                              |                          |           |
 
 
 
